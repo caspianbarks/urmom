@@ -1,2 +1,2 @@
 # urmom
-&lt;p align="center">   &lt;img src="http://some_place.com/image.png" /> &lt;/p>
+&lt;p align="center">   &lt;img src="https://i.imgur.com/aK9PjzM.png" /> &lt;/p>
